@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Who am I?"
+date:   2019-08-21 09:57:00 -0400
+categories: 
+---
+You know that particular genre of "HI I'M HERE NEW BLOG AAAAAA" post that starts every new blog?
+
+This is that post.
+
+I'd been sitting on this idea for a long time. Finally, in a Golden-Girls-induced fit of not wanting to go to bed, I just decided to go ahead and make a thing. Thanks, [Amanda Visconti][amanda-visconti], for your [awesome tutorial][tutorial]!
+
+So why now? Why this?
+
+I read *a lot* of internet. I don't know how many RSS feeds I subscribe to.[^1] I literally have 50 podcasts in [Overcast][overcast] and I even listen to some of them. Twitter is a thing that exists.
+
+All of that to say, my brain is too full. Every now and then, I want to let a thing out of it, and Twitter is too short.[^2] So this is a place for those things to go and be free.
+
+I'm not sure what all will live here yet. Probably some library stuff. My CV should have a home? I also something Think Things about my internet readings, so I might put them here? \*gestures vaguely\*
+
+Anyway, this was my excuse to put a thing here. Maybe I'll publish it? Maybe it won't see the light of day?
+
+So who are you, New Blog? Hell if I know, but you exist now. Good job existing!
+
+
+
+
+
+[^1]: RSS, y'all. It's still the best. (#ripgooglereader) But [Feedbin][feedbin] has taken up the mantle beautifully!
+[^2]: Also I have Thoughts about Twitter and why I don't post there very much. That's another blog post.[^3]
+[^3]: Am I already promising more posts? Oh, dear. This *is* that post. Also footnotes in footnotes. I'm kicking the tires, ok!?
+
+[amanda-visconti]: https://twitter.com/literature_geek
+[tutorial]: https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
+[feedbin]: https://feedbin.com
+[overcast]: https://www.overcast.fm
